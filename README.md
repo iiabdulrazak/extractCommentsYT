@@ -1,2 +1,2 @@
 # ExtractCommentsYT
-Extracting Youtube Comments and doing sonme analysis to it.
+Extracting youtube comments and doing some analysis to it.
